@@ -26,7 +26,7 @@
                 int m = 76 ;
                 int n = 79 ;
                 int o= 34;
-                Console.Write( Convert.ToChar(k));    
+                Console.Writ( Convert.ToChar(k));    
                 Console.Write( Convert.ToChar(l));            
                 Console.Write( Convert.ToChar(m));            
 
