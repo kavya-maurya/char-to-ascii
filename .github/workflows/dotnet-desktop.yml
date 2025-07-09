@@ -26,5 +26,4 @@ jobs:
       run: dotnet build --no-restore
 
     - name: Run project
-      run: dotnet run --project ./char to asciii.csproj
-
+      run: dotnet run 
