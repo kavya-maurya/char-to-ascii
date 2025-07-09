@@ -17,7 +17,7 @@ jobs:
     - name: Setup .NET SDK
       uses: actions/setup-dotnet@v4
       with:
-        dotnet-version: '9.0.x'  # Use the version you're targeting
+        dotnet-version: '9.0.x'
 
     - name: Restore dependencies
       run: dotnet restore
@@ -27,3 +27,14 @@ jobs:
 
     - name: Run project
       run: dotnet run 
+
+    - name: Notify success via ntfy
+      if: success()
+      run: |
+        curl -d "✅ .NET build & run succeeded" https://ntfy.sh/my-dotnet-build
+
+    - name: Notify failure via ntfy
+      if: failure()
+      run: |
+        curl -d "❌ .NET build or run failed" https://ntfy.sh/my-dotnet-build
+
