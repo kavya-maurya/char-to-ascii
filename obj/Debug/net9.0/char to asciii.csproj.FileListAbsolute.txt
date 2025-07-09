@@ -1,0 +1,14 @@
+F:\Practice\char to asciii\obj\Debug\net9.0\char to asciii.GeneratedMSBuildEditorConfig.editorconfig
+F:\Practice\char to asciii\obj\Debug\net9.0\char to asciii.AssemblyInfoInputs.cache
+F:\Practice\char to asciii\obj\Debug\net9.0\char to asciii.AssemblyInfo.cs
+F:\Practice\char to asciii\obj\Debug\net9.0\char to asciii.csproj.CoreCompileInputs.cache
+F:\Practice\char to asciii\bin\Debug\net9.0\char to asciii.exe
+F:\Practice\char to asciii\bin\Debug\net9.0\char to asciii.deps.json
+F:\Practice\char to asciii\bin\Debug\net9.0\char to asciii.runtimeconfig.json
+F:\Practice\char to asciii\bin\Debug\net9.0\char to asciii.dll
+F:\Practice\char to asciii\bin\Debug\net9.0\char to asciii.pdb
+F:\Practice\char to asciii\obj\Debug\net9.0\char to asciii.dll
+F:\Practice\char to asciii\obj\Debug\net9.0\refint\char to asciii.dll
+F:\Practice\char to asciii\obj\Debug\net9.0\char to asciii.pdb
+F:\Practice\char to asciii\obj\Debug\net9.0\char to asciii.genruntimeconfig.cache
+F:\Practice\char to asciii\obj\Debug\net9.0\ref\char to asciii.dll
